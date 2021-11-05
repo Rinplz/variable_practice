@@ -6,3 +6,4 @@ boolean = false
 have_sleep = false
 array = [15,"fifteen",true]
 other_array = [63,6.098,"blah"]
+hash = {name: Rin, language: Ruby}
